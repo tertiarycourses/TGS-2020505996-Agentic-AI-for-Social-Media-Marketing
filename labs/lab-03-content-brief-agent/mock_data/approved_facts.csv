@@ -1,0 +1,4 @@
+fact_id,claim,source,status
+FACT-01,Kit monitors household energy use,Product specification,approved
+FACT-02,Installation takes under 30 minutes,Usability test n=24,approved
+FACT-03,Guaranteed 40 percent bill reduction,None,rejected

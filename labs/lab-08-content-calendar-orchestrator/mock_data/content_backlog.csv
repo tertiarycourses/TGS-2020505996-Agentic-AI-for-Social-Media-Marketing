@@ -1,0 +1,5 @@
+content_id,type,status,valid_from,valid_to,dependency
+CNT-101,education,approved,2026-09-15,2026-10-15,none
+CNT-102,proof,approved,2026-09-16,2026-10-15,FACT-02
+CNT-103,ugc,pending,2026-09-17,2026-10-01,UGC-204-rights
+CNT-104,promotion,approved,2026-09-18,2026-09-30,finance-approved

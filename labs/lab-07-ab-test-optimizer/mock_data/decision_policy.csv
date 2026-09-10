@@ -1,0 +1,6 @@
+field,value
+primary_metric,conversion_rate
+minimum_relative_lift,0.10
+minimum_clicks_per_cell,500
+max_budget_shift,0.15
+review_after_hours,48

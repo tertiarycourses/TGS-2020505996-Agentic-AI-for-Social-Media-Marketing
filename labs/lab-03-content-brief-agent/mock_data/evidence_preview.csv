@@ -1,0 +1,4 @@
+brief_id,fact_id,voice_score,policy_score
+BR-01,FACT-01,4.4,0.96
+BR-02,FACT-02,4.1,0.92
+BR-03,FACT-03,3.8,0.2

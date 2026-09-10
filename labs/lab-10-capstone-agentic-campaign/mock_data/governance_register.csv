@@ -1,0 +1,3 @@
+use_case_id,owner,risk_tier,data_class,approval_gate,review_cycle
+AI-SMM-01,Marketing Director,medium,internal,before_publish,quarterly
+AI-SMM-02,Community Lead,high,restricted,before_response,monthly

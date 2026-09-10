@@ -1,0 +1,3 @@
+message_id,severity,route,SLA
+M002,medium,human review,60 min
+M004,critical,emergency escalation,5 min

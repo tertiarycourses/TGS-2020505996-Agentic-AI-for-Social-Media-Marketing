@@ -1,0 +1,4 @@
+segment_id,description,size_estimate,consent_basis,suppression
+AUD-01,SG homeowners interested in energy efficiency,45000,platform interest targeting,customers_30d
+AUD-02,site visitors in last 30 days,8200,analytics consent,purchased_30d
+AUD-03,opted-in customer list,3100,marketing opt-in,purchased_30d

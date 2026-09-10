@@ -1,0 +1,6 @@
+signal,current_state,next_state,content_need
+energy-bill search,unaware,aware,problem explainer
+comparison-page visit,aware,considering,decision matrix
+pricing-page revisit,considering,deciding,proof and guarantee
+purchase,deciding,customer,onboarding
+review submission,customer,advocate,recognition

@@ -1,0 +1,4 @@
+rule_id,metric,operator,threshold,severity,action
+AL-01,cpl_sgd,greater_than,30,high,human_review
+AL-02,negative_comments,greater_than,12,high,community_escalation
+AL-03,ctr_pct,less_than,2.5,medium,diagnose

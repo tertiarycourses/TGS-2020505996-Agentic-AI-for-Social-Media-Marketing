@@ -1,0 +1,5 @@
+slot_id,publish_at,channel,format
+S01,2026-09-15T10:00:00+08:00,facebook,vertical_video
+S02,2026-09-17T12:30:00+08:00,facebook,carousel
+S03,2026-09-19T09:00:00+08:00,instagram,vertical_video
+S04,2026-09-21T18:00:00+08:00,linkedin,static_image

@@ -1,0 +1,6 @@
+message_id,text,intent_hint,pii_present
+M001,Love the energy dashboard,feedback,false
+M002,My order 8821 has not arrived,delivery_issue,true
+M003,This claim seems misleading,complaint,false
+M004,I will hurt your staff,threat,false
+M005,Can I use this in a rental flat,product_question,false

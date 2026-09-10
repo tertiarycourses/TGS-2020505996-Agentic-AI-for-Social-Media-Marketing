@@ -1,0 +1,5 @@
+lead_id,campaign_id,status,value_sgd
+L001,CMP-01,qualified,500
+L002,CMP-01,unqualified,0
+L003,CMP-01,customer,1200
+L004,CMP-01,qualified,600

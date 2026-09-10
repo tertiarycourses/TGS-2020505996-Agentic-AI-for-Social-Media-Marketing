@@ -1,0 +1,5 @@
+rule_id,category,requirement,owner
+POL-01,claims,Every performance claim needs an approved source,Brand Lead
+POL-02,privacy,No raw personal identifiers in AI prompts,DPO
+POL-03,publishing,Human approval is mandatory before publishing,Campaign Owner
+POL-04,budget,Daily spend may not exceed SGD 250,Finance

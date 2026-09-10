@@ -1,0 +1,5 @@
+metric,baseline,target_window,source
+qualified_leads,120,90 days,CRM export
+conversion_rate,0.032,90 days,landing analytics
+cost_per_lead,28.50,90 days,ad platform
+complaint_rate,0.014,90 days,service desk

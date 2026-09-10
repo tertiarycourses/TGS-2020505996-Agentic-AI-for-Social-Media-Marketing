@@ -1,0 +1,6 @@
+respondent,quote_theme,observed_need,barrier,confidence
+R01,monthly bills,reduce energy cost,upfront price,0.90
+R02,home comfort,automate routines,setup complexity,0.80
+R03,sustainability,lower footprint,trust in claims,0.85
+R04,renovation,new home bundle,compatibility,0.75
+R05,convenience,remote control,data privacy,0.88

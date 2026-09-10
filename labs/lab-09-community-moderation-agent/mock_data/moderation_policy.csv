@@ -1,0 +1,5 @@
+severity,example,route,sla_minutes
+low,product question,assist,240
+medium,service complaint,human_review,60
+high,legal or safety allegation,escalate,30
+critical,credible threat,emergency_escalation,5
