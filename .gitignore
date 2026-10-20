@@ -6,11 +6,12 @@
 .codex/
 assessment/
 reference/
-courseware/
+# build inputs beside the deck (not courseware)
+courseware/assets/
+courseware/slide_map.json
 build/
 qa/
 archive/
-LG-*.md
 *.key
 *.pem
 __pycache__/
@@ -18,3 +19,10 @@ __pycache__/
 node_modules/
 .venv/
 venv/
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*

@@ -58,9 +58,21 @@ Start at [the labs index](labs/README.md), then work through the numbered folder
 
 Detailed procedures are intentionally kept in the lab guides and the course Learner Guide rather than in the slide deck or this README.
 
+## Course materials
+
+The current courseware (v15.0) is published in this repository:
+
+| Material | Editable | PDF |
+|---|---|---|
+| Trainer slide deck | [PPTX](<courseware/Agentic AI for Social Media Marketing-v15.0.pptx>) | [PDF](<courseware/Agentic AI for Social Media Marketing-v15.0.pdf>) |
+| Learner Guide | [DOCX](<courseware/LG-Agentic AI for Social Media Marketing-v15.0.docx>) | [PDF](<courseware/LG-Agentic AI for Social Media Marketing-v15.0.pdf>) |
+| Lesson Plan | [DOCX](<courseware/LP-Agentic AI for Social Media Marketing-v15.0.docx>) | [PDF](<courseware/LP-Agentic AI for Social Media Marketing-v15.0.pdf>) |
+
+A Markdown mirror of the Learner Guide is also available: [LG-Agentic AI for Social Media Marketing-v15.0.md](<LG-Agentic AI for Social Media Marketing-v15.0.md>).
+
 ## Public and private distribution boundary
 
-This public repository contains learner-safe lab instructions and fictional mock data only. Trainer slides, Learner Guide, Lesson Plan, source references, build tooling, assessment question papers, answer keys, credentials, QA renders, and publication configuration are distributed privately through approved Tertiary Infotech systems and are not part of this repository.
+This public repository contains the slide deck, Learner Guide, Lesson Plan, learner-safe lab instructions and fictional mock data. Assessment question papers and answer keys, the Facilitator Guide and Assessment Plan, source references, credentials, build tooling and QA renders are distributed privately through approved Tertiary Infotech systems and are not part of this repository.
 
 ## Training provider
 
